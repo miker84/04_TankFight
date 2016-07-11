@@ -8,3 +8,4 @@ You may download and edit the files as you wish, all I ask is that you state whe
 ---
 ## Commits so far
 * Edited the readme to include this text.
+* Followed along with the class to edit a little futher.
